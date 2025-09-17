@@ -1,0 +1,26 @@
+Task:
+-----
+	- All Data Structures like list,tiple,set,string and dictionary
+
+Problem:
+========
+	
+	Input-1:
+		12457
+	Output-1:
+		Entered number is: 12457
+		Left half reverse is: 21457
+		Right half reverse is: 12475
+		Even numbers are: 24
+		Odd numbers are: 157
+		Length of 12457 is: 5
+
+	Input-2:
+		4587
+	Output-2:
+		Entered number is: 4587
+		Left half reverse is: 5487
+		Right half reverse is: 4578
+		Even numbers are: 48
+		Odd numbers are: 57
+		Length of 12457 is: 4
